@@ -1,6 +1,4 @@
-# Sentiment-Analysis-Tool
-
-# Twitter Sentiment Analysis
+# Sentiment Analysis Tool
 
 This project automates the collection and sentiment analysis of tweets about a specific topic using Selenium and TextBlob.
 
