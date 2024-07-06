@@ -1,0 +1,7 @@
+selenium
+pandas
+nltk
+wordcloud
+textblob
+matplotlib
+seaborn
